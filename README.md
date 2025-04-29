@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jean Marc Jeudy, an <a href="https://linkedin.com/in/JeanMarcJeudy">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jean Marc Jeudy, an <a href="https://www.linkedin.com/in/jean-marc-jeudy-9805a526b/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
